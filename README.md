@@ -22,3 +22,6 @@ This Github contains the code used for the project, and the data we collected.
 * IMDBreview_data: The folder containing the data for IMDB reviews
 
 * Due to the limitation of Github, here's the link to our combine data: https://drive.google.com/file/d/16P3EzGgD1tFtw7lX5OKDrdunE5F7zkE-/view?usp=sharing
+
+### Poster
+[poster](annotated-699_poster.pdf)
